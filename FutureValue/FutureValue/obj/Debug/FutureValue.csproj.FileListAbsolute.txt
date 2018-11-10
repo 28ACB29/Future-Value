@@ -1,0 +1,9 @@
+C:\Users\arthu\source\repos\FutureValue\FutureValue\bin\Debug\FutureValue.exe
+C:\Users\arthu\source\repos\FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+C:\Users\arthu\source\repos\FutureValue\FutureValue\obj\Debug\FutureValue.csprojAssemblyReference.cache
+C:\Users\arthu\source\repos\FutureValue\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\Users\arthu\source\repos\FutureValue\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.cache
+C:\Users\arthu\source\repos\FutureValue\FutureValue\obj\Debug\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\FutureValue\FutureValue\obj\Debug\FutureValue.exe
+C:\Users\arthu\source\repos\FutureValue\FutureValue\obj\Debug\FutureValue.pdb
+C:\Users\arthu\source\repos\FutureValue\FutureValue\obj\Debug\FutureValue.FormFutureValue.resources
